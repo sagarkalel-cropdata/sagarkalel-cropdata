@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sagar
 - 👀 I’m interested in Application Development
-- 🌱 I’m currently learning Advanced flutter, Sql database, time complexity, etc.
+- 🌱 I’m currently learning Advanced flutter, Sql database, Time complexity, etc.
 - 😄 Pronouns: He/Him
 
 <!---
